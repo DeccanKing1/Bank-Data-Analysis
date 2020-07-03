@@ -10,3 +10,6 @@ I have carried out data abalysis to answer foloowing questions:
 3. Does education has any eddect on subscription of term deposit?
 
 Installations: Python 3.6, pandas, matplotlib
+
+Blog is also written on this notebook. Please find the link.
+https://medium.com/@anuptukarampatil/a-beginners-guide-to-exploratory-data-analysis-on-bank-marketing-data-b526d034730e
